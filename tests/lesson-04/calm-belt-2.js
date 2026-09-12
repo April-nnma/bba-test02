@@ -13,3 +13,5 @@ if (devilFruit === "gomu-gomu") {
   awakeningStatus = "Unknown Devil Fruit";
 }
 console.log(awakeningStatus);
+
+
